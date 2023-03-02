@@ -1,10 +1,7 @@
-# BI-Project
-Visualizing the US Police Shooting dataset using Power BI/Tableau and creating a dashboard with insightful insights and action plans. 
-
 <a name="readme-top"></a>
 
 # :bar_chart: :tv: BI-Project
-As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to search for a dataset to visulise it using buisness intelligence tools. The project has to have an impact and deliver clear insights with actionable plans.
+As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to search for a dataset and visualize it using business intelligence tools. The project has to have an impact and deliver clear insights with actionable plans.
 
 ![3bc9f66b-f069-4145-ab9c-9138dc6c1b67_1140x641](https://user-images.githubusercontent.com/53378171/222489799-9a2415cf-13a3-4443-a0bc-eebaa1768697.jpg)
 
@@ -24,7 +21,6 @@ As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to sear
     <li><a href="#dataset-overview">Dataset Overview</a></li>
     <li><a href="#visualization">Visualization</a></li>
     <li><a href="#contributing-members-contact">Contributing Members Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -58,13 +54,14 @@ Many accidents have been trending in the US, notably in the previous two years f
 ## Dataset Overview
 This dataset examines police shootings in the United States. It precisely measures the common racism in America. We had no need to clean or alter the dataset, as it was 
 absolutely flawless. It offers basic information about the shot victims, including their names, ages, genders, and races. In addition to the shooting and death information, the following questions illustrate our rationale for selecting the dataset:
-• The date of the occurrence and the location where it occurred.
-• How did they get shot? Did they attack?
-• Were they carrying arms?
-• Did they exhibit signs of mental illness?
-• Was a camera worn by the police officer, or was the incident recorded?
-• Did the victim run away?
-• What type of weapons were employed by law enforcement?
+
+* The date of the occurrence and the location where it occurred.
+* How did they get shot? Did they attack?
+* Were they carrying arms?
+* Did they exhibit signs of mental illness?
+* Was a camera worn by the police officer, or was the incident recorded?
+* Did the victim run away?
+* What type of weapons were employed by law enforcement?
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
