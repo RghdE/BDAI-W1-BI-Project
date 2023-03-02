@@ -68,17 +68,20 @@ absolutely flawless. It offers basic information about the shot victims, includi
 
 ## Visualization
 
-Based on our [EDA](https://medium.com/@RghdE/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559), we found that 80% of our users are regular visitors, while only 17% are investors, thus, we wanted to create two dashboards for these two user types.
+The following dashboards were created after making sure that there are no preprocessing steps needed. 
 
-Visitors dashboard:
+![image](https://user-images.githubusercontent.com/53378171/222495204-56f21ba9-34aa-494e-9b40-e4841abb0bce.png)
 
-<img width="718" alt="dash1" src="https://user-images.githubusercontent.com/53378171/209436098-559d6bbc-ae15-47ce-96ba-596542ee5aee.png">
+![image](https://user-images.githubusercontent.com/53378171/222495509-a890e1c3-6a33-4701-91d5-8bd6fa21fa6c.png)
 
-Investors dashboard:
+To interact more with the dashboard, please check the [dashboard link](https://public.tableau.com/app/profile/johara.alkanhal/viz/USpoliceshootingsEDA2_16646517597510/Story1).
 
-<img width="721" alt="dash2" src="https://user-images.githubusercontent.com/53378171/209436094-128b4d7e-085c-4dfd-aad2-255aa83dc4d7.png">
-
-As mentioned above, you can visit [our web blog](https://medium.com/@RghdE/investments-analysis-dataset-predicting-customer-investment-based-on-visitors-activity-logs-using-b725ad1fa559) for a detailed analysis of the project.
+On the basis of the dashboard's visualization, the following preventative measures are recommended:
+* Based on the state and the number of shootings, they must **mandate that all police officers turn on their cameras and establish sanctions for those who do not comply**.
+* In light of the racial diversity of those who have been murdered, **the U.S. government should expand its activities to raise awareness about the consequences of racism**. And avoid bias by including all races in these campaigns.
+* **Adding a relief button to police uniforms to be pressed prior to an exchange of gunfire or if the police are threatened**, so that the police station can assess the 
+severity of the situation and send police cars to the scene without informing the criminal, thereby preventing a return to gun use and murder.
+* **Providing the police officers with intensive training on how to conduct conversations and control their emotions in order to control their actions as provocations escalate**, hence reducing the number of fatalities in these situations. From the amount of closed cameras, it may be inferred that there was a conversation the police did not want recorded in order to protect their careers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
