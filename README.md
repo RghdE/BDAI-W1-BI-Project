@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# :bar_chart: :tv: BI-Project
+# :bar_chart: BI-Project
 As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to search for a dataset and visualize it using business intelligence tools. The project has to have an impact and deliver clear insights with actionable plans.
 
 ![3bc9f66b-f069-4145-ab9c-9138dc6c1b67_1140x641](https://user-images.githubusercontent.com/53378171/222489799-9a2415cf-13a3-4443-a0bc-eebaa1768697.jpg)
