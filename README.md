@@ -81,7 +81,7 @@ On the basis of the dashboard's visualization, the following preventative measur
 * In light of the racial diversity of those who have been murdered, **the U.S. government should expand its activities to raise awareness about the consequences of racism**. And avoid bias by including all races in these campaigns.
 * **Adding a relief button to police uniforms to be pressed prior to an exchange of gunfire or if the police are threatened**, so that the police station can assess the 
 severity of the situation and send police cars to the scene without informing the criminal, thereby preventing a return to gun use and murder.
-* **Providing the police officers with intensive training on how to conduct conversations and control their emotions in order to control their actions as provocations escalate**, hence reducing the number of fatalities in these situations. From the amount of closed cameras, it may be inferred that there was a conversation the police did not want recorded in order to protect their careers
+* **Providing the police officers with intensive training on how to conduct conversations and control their emotions in order to control their actions as provocations escalate**, hence reducing the number of fatalities in these situations. From the amount of closed cameras, it may be inferred that there was a conversation the police did not want recorded in order to protect their careers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
